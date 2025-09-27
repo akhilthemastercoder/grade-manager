@@ -1,0 +1,18 @@
+# Grade Manager Requirements
+# This project uses only Python standard library
+# No external dependencies required
+
+# Python version requirement
+# Python >= 3.6
+
+# Standard library modules used:
+# - json (data persistence)
+# - os (file operations)
+# - sys (system operations)
+# - datetime (timestamps)
+# - typing (type hints)
+
+# For development (optional):
+# - pytest (for testing)
+# - black (code formatting)
+# - flake8 (linting)
